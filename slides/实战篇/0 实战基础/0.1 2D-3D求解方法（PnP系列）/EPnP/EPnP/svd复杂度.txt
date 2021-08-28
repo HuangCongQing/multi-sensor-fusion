@@ -1,0 +1,14 @@
+亚利桑那州立大学 asu  http://rakaposhi.eas.asu.edu/s01-cse494-mailarchive/msg00028.html
+
+Someone asked about the complexity of SVD computation.
+
+According to my Golub&Van Loan book on "Matrix Computations" (which is 
+pretty much the definitive book on the subject), the best algorithms for 
+SVD computation of an mxn matrix take time that is proportional to is O(k 
+m^2 n + k'  n^3) (k and k' are constants which are 4 and 22 for an 
+algorithm called R-SVD.
+
+You can get by with just O(mn^2) if you need only the set of singular 
+values and not the U and V matrices.
+
+Rao

@@ -13,6 +13,9 @@
 * 笔记：https://www.yuque.com/huangzhongqing/eozhay/pf0eku
 * 官方code：https://github.com/Aaronswei/ad_sensor_fusion
 
+自动驾驶相关交流群，欢迎扫码加入：[自动驾驶感知(PCL/ROS+DL)：技术交流群汇总(新版)](https://mp.weixin.qq.com/s?__biz=MzI4OTY1MjA3Mg==&mid=2247486575&idx=1&sn=3145b7a5e9dda45595e1b51aa7e45171&chksm=ec2aa068db5d297efec6ba982d6a73d2170ef09a01130b7f44819b01de46b30f13644347dbf2#rd)
+
+
 ```
 
 自动驾驶中的多维感知融合技术分享（Camera+Liar+Radar+IMU）
